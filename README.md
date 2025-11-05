@@ -17,7 +17,6 @@
 
 - 📫 How to reach me **vcg67732@gmail.com**
  
--  // Here is my portfilo link: https://portfolio-stars.vercel.app/**//
 
 - ⚡ Fun fact **I am Funny**
 
