@@ -2,14 +2,14 @@
 	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg" alt = "Snake Game"/>
 </p>
 <h1 align="center">Hi 👋, I'm Garipelly C</h1>
-<h3 align="center">A passionate FullStack Developer from India</h3>
+<h3 align="center">A passionate Lead Full Stack Developer from India</h3>
 <img align="right" alt="Coder" width=350 src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/ke17ZwdGBToddI8pDm48kPoswlzjSVMM-SxOp7CV59BZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PI6FXy8c9PWtBlqAVlUS5izpdcIXDZqDYvprRqZ29Pw0o/coding-freak.gif" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vyshnavigaripelly&label=Profile%20views&color=0e75b6&style=flat" alt="vyshnavigaripelly" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Vexa Web App**
+- 🔭 I’m currently working on **Lead Developer**
 
 - 🌱 I’m currently learning **Devops**
 
